@@ -81,6 +81,7 @@ public class motifs {
                 }
                 System.out.println();
             }
+            //th
     }
         
 }
